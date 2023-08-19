@@ -41,10 +41,11 @@
 # 4. For Loops########################
 # What is printed when the below code is run?
 ######################################
-mysum = 0
-for i in range(5, 11, 2):
- mysum += i
- if mysum == 5:
-   break
-   mysum += 1
-print(mysum) # 5
+# mysum = 0
+# for i in range(5, 11, 2):
+#  mysum += i
+#  if mysum == 5:
+#    break
+#    mysum += 1
+# print(mysum) # 5
+
